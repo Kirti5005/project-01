@@ -10,5 +10,5 @@ GET /api/users/:id
 
 POST /api/users -create new user
 
-PATCH /api/users/1 - Edit the user with ID 1
+
 
